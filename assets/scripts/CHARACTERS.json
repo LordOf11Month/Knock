@@ -1,0 +1,51 @@
+[
+    {
+        "name": "The Former Player",
+        "core_description": "A former gifted football player in his 20's!! not old. from a country marked by internal war.",
+        "visual_markers": [
+            "former gifted football player",
+            "dark simple coat",
+            "walking stick",
+            "limping",
+            "muted dusty colors",
+            "melancholic cinematic realism",
+            "35mm film grain"
+        ],
+        "negative_markers": [
+            "American football gear",
+            "basketball",
+            "neon cyberpunk",
+            "cartoon",
+            "anime",
+            "gore",
+            "literal guns"
+        ],
+        "character_references": [
+            {
+                "id": "adult_front",
+                "path": "/home/bne/Projects/Knock/assets/character_refs/former_player_front.png",
+                "prompt": "profile shot from front, The Former Player, adult former football player, tired man in his late twenties, dark simple coat, medical walking stick, emotionally distant face, muted colors, cinematic realism"
+            },
+            {
+                "id": "adult_back",
+                "path": "/home/bne/Projects/Knock/assets/character_refs/former_player_back.png",
+                "prompt": "back view full body character reference, The Former Player walking away slowly, dark simple coat, medical walking stick, quiet football academy atmosphere, muted dusty colors, cinematic realism"
+            },
+            {
+                "id": "adult_silhouette",
+                "path": "/home/bne/Projects/Knock/assets/character_refs/former_player_silhouette.png",
+                "prompt": "dark silhouette character reference, The Former Player, standing still with tired posture, dark coat, medical walking stick, stadium light backlight, melancholic cinematic realism"
+            },
+            {
+                "id": "adult_side",
+                "path": "/home/bne/Projects/Knock/assets/character_refs/former_player_side.png",
+                "prompt": "side view full body character reference, The Former Player, adult football player in his late 20s, dark simple coat, medical walking stick, emotionally distant face in profile, cinematic realism"
+            },
+            {
+                "id": "child_academy",
+                "path": "/home/bne/Projects/Knock/assets/character_refs/early_age_academy.png",
+                "prompt": "full body character reference, young gifted football academy player, caucasian, 12 years old, simple football training kit, hopeful expression, modest academy field, muted warm colors, cinematic realism"
+            }
+        ]
+    }
+]
